@@ -1,0 +1,8 @@
+{
+  "mySQLAddress": "localhost",
+  "mySQLDataBase": "ecology",
+  "mySQLUser": "root",
+  "mySQLPassword": "123456",
+  "mySQLConnectionLimit": 5000,
+  "superSecret":"This is a encryption key"
+}
